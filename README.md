@@ -4,7 +4,7 @@ Recueil de formules utilisées en physique. Ce document est rédigé en françai
 
 ## Contenu
 
-1. Newton (planned)
+1. Newton (en rédaction)
  1. Lois de Newton
  2. Gravitation universelle
  3. Champ de pesanteur (gravité)
@@ -30,9 +30,9 @@ Les thématiques traitées sont évoquées dans les cursus des études suivantes
 
 # Édition du document
 
-Ce document a été réalisé utilisant Microsoft Work 2010. Un outil bureautique équivalent peut aussi être utilisé pour modifier ce fichier, tel que la suite [LibreOffice](https://www.libreoffice.org).
+Ce document a été réalisé en utilisant Microsoft Word 2010. Un outil bureautique équivalent peut aussi être utilisé pour modifier ce fichier, tel que la suite [LibreOffice](https://www.libreoffice.org).
 
-La police Euclid est nécessaire pour correctement éditer le fichier Word.
+La police *Euclid* est nécessaire pour correctement éditer le fichier.
 
 # Licence
 
