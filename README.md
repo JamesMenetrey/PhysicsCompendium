@@ -28,17 +28,17 @@ Recueil de formules utilisées en physique. Ce document est rédigé en françai
 Les thématiques traitées sont évoquées dans les cursus des études suivantes:
 - Études Supérieures en Suisse
 
-# Édition du document
+## Édition du document
 
 Ce document a été réalisé en utilisant Microsoft Word 2010. Un outil bureautique équivalent peut aussi être utilisé pour modifier ce fichier, tel que la suite [LibreOffice](https://www.libreoffice.org).
 
 La police *Euclid* est nécessaire pour correctement éditer le fichier.
 
-# Licence
+## Licence
 
 Ce document est sous licence Creative Commons : Attribution - Partage dans les Mêmes Conditions.
 Pour plus d’informations, consultez le fichier LICENSE.
 
-# Auteur
+## Auteur
 
 - [ZenLulz (Jämes Ménétrey)](https://github.com/ZenLulz)
