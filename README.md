@@ -33,7 +33,7 @@ Les thématiques traitées sont évoquées dans les cursus des études suivantes
  1. Intensité et décibel
  2. Rapport des intensités
  3. Relation avec la pression
- 4. Dissipation
+ 4. Principe de dispersion
 
 ## Édition du document
 
