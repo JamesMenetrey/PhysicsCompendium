@@ -2,6 +2,10 @@
 
 Recueil de formules utilisées en physique. Ce document est rédigé en français.
 
+Les thématiques traitées sont évoquées dans les cursus des études suivantes:
+
+- Études Supérieures en Suisse
+
 ## Contenu
 
 1. Newton (en rédaction)
@@ -24,13 +28,16 @@ Recueil de formules utilisées en physique. Ce document est rédigé en françai
  4. Énergie cinétique
  5. Puissance
  6. Rendement et perte
-
-Les thématiques traitées sont évoquées dans les cursus des études suivantes:
-- Études Supérieures en Suisse
+ 
+5. Ondes sonores et réponses auditives
+ 1. Intensité et décibel
+ 2. Rapport des intensités
+ 3. Relation avec la pression
+ 4. Dissipation
 
 ## Édition du document
 
-Ce document a été réalisé en utilisant Microsoft Word 2010. Un outil bureautique équivalent peut aussi être utilisé pour modifier ce fichier, tel que la suite [LibreOffice](https://www.libreoffice.org).
+Ce document a été réalisé en utilisant Microsoft Word 2013. Un outil bureautique équivalent peut aussi être utilisé pour modifier ce fichier, tel que la suite [LibreOffice](https://www.libreoffice.org).
 
 La police *Euclid* est nécessaire pour correctement éditer le fichier.
 
