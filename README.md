@@ -8,20 +8,31 @@ Les thématiques traitées sont évoquées dans les cursus des études suivantes
 
 ## Contenu
 
-1. Newton (en rédaction)
+1. Mouvement rectiligne
+ - Relation de base
+ - Uniforme (MRU)
+ - Uniformément accéléré (MRUA)
+
+2. Balistique
+ - Équation du mouvement
+ - Vitesse résultante
+ - Schéma de principe
+ - Points remarquables
+
+3. Newton (en rédaction)
  - Lois de Newton
  - Gravitation universelle
  - Champ de pesanteur (gravité)
  
-2. Mouvement Circulaire
+4. Mouvement Circulaire
  - Uniforme
  - Uniformément accéléré
  - Équations générales
  - Force centripète sur virage surélevé
  
-3. Orbite géostationnaire
+5. Orbite géostationnaire
  
-4. Énergie et puissance
+6. Énergie et puissance
  - Travail d'une force
  - force conservative
  - Force dissipative
@@ -29,13 +40,13 @@ Les thématiques traitées sont évoquées dans les cursus des études suivantes
  - Puissance
  - Rendement et perte
  
-5. Ondes sonores et réponses auditives
+7. Ondes sonores et réponses auditives
  - Intensité et décibel
  - Rapport des intensités
  - Relation avec la pression
  - Principe de dispersion
 
-6. Transfert de chaleur
+8. Transfert de chaleur
  - Température et chaleur
  - Équilibre d'énergie
  - Équilibre de puissance
