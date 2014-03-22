@@ -12,6 +12,7 @@ Les thématiques traitées sont évoquées dans les cursus des études suivantes
  - Relation de base
  - Uniforme (MRU)
  - Uniformément accéléré (MRUA)
+ - Synchronisation de mouvements
 
 2. Balistique
  - Équation du mouvement
