@@ -19,6 +19,7 @@ Les thématiques traitées sont évoquées dans les cursus des études suivantes
  - Vitesse résultante
  - Schéma de principe
  - Points remarquables
+ - Calcul de l'angle sous condition
 
 3. Newton (en rédaction)
  - Lois de Newton
