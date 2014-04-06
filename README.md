@@ -41,6 +41,7 @@ Les thématiques traitées sont évoquées dans les cursus des études suivantes
  - Énergie cinétique
  - Puissance
  - Rendement et perte
+ - Annexe: Justification de l'énergie potentielle
  
 7. Ondes sonores et réponses auditives
  - Intensité et décibel
